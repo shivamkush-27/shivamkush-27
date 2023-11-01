@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1IKFri9c8ZLh95OZXJClhv&ust=1698934359209000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjZl-r9ooIDFQAAAAAdAAAAABAE" alt="Web Development Coding" width="400"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandaraja&label=Profile%20views&color=0e75b6&style=flat" alt="sikandaraja" /> </p>
 
