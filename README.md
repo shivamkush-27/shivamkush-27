@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Coding" width="400"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandaraja&label=Profile%20views&color=0e75b6&style=flat" alt="sikandaraja" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hrt_bet_shivam" target="blank"><img src="https://img.shields.io/twitter/follow/hrt_bet_shivam?logo=twitter&style=for-the-badge" alt="hrt_bet_shivam" /></a> </p>
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Coding" width="400">
 
 - 🌱 I’m currently learning **Reactjs, MongoDB, Full Stack**
 
