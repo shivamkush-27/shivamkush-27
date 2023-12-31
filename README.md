@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactjs, MongoDB, Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://sikandaraja.github.io/shivamkush/](https://sikandaraja.github.io/shivamkush/)
+- 👨‍💻 All of my projects are available at [https://shivamkush-27.github.io/shivamkush/](https://shivamkush-27.github.io/shivamkush/)
 
 - 📝 I regularly write articles on [https://medium.com/@iryte](https://medium.com/@iryte)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shivamkonline@gmail.com**
 
-- 📄 Know about my experiences [https://sikandaraja.github.io/shivamkush/image/Resume1.pdf](https://sikandaraja.github.io/shivamkush/image/Resume1.pdf)
+- 📄 Know about my experiences [https://shivamkush-27.github.io/shivamkush/image/Resume1.pdf](https://shivamkush-27.github.io/shivamkush/image/Resume1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
