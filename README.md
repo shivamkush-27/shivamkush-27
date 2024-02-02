@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Reactjs, MongoDB, Full Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@iryte](https://medium.com/@iryte)
-
 - 💬 Ask me about **Full Stack and Related Technologies**
 
-- 📫 Reach me through mail on **shivamkonline@gmail.com**
+- 📫 Reach me through mail at **shivamkonline@gmail.com**
 
 - 📄 Know about my experiences [https://shivamkush-27.github.io/shivamkush/image/Resume1.pdf](https://shivamkush-27.github.io/shivamkush/image/Resume1.pdf)
 
