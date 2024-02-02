@@ -1,8 +1,3 @@
-<style>
-  a{
-    text-decoration:none;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Coding" width="400">
