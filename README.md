@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkush-27&label=Profile%20Views&color=0e75b6&style=plastic&base=10000" alt="shivamkush-27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkush-27&label=Profile%20Views&color=0e75b6&style=plastic&base=16400" alt="shivamkush-27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hrt_bet_shivam" target="blank"><img src="https://img.shields.io/twitter/follow/hrt_bet_shivam?logo=twitter&style=for-the-badge" alt="hrt_bet_shivam" /></a> </p>
 
