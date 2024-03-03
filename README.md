@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1>Hi 👋, I'm Shivam</h1>
+<h3>A passionate web developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkush-27&label=Profile%20Views&color=0e75b6&style=plastic&base=16400" alt="shivamkush-27" /> </p>
