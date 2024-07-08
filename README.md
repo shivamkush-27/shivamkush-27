@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Crakcode](#) 
 
-- 🌱 I’m currently learning **Reactjs, MongoDB, Full Stack**
+- 🌱 I’m currently learning **Nodejs, Vuejs**
 
 - 💬 Ask me about **Full Stack and Related Technologies**
 
