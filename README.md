@@ -6,15 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/hrt_bet_shivam" target="blank"><img src="https://img.shields.io/twitter/follow/hrt_bet_shivam?logo=twitter&style=for-the-badge" alt="hrt_bet_shivam" /></a> </p>
 
-- 🔭 I’m currently working on [Crakcode](#) 
+- 🔭 I’m currently working with [To-Let Globe](https://github.com/toletglobe/Tolet-Globe-Frontend) 
 
 - 🌱 I’m currently learning **Nodejs, Vuejs**
 
-- 💬 Ask me about **Full Stack and Related Technologies**
+- 💬 Ask me about **Front-End Technologies and Digital Marketing**
 
 - 📫 Reach me at **shivamkonline@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivamkush-27/](https://www.linkedin.com/in/shivamkush-27/)
+
+- 🌐 Read My Blog Articles on **[Bhogul](https://www.bhogul.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
