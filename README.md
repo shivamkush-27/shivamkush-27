@@ -36,12 +36,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkush-27&show_icons=true&locale=en&theme=dark&hide=contribs,issues" alt="shivamkush-27" /></p>
 
-<p>
+<p>  
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/shivamkush-27?pet-id=656454925237741565"
-    width="600"
-    height="300"
+    src="https://render.gitanimals.org/lines/shivamkush-27?pet-id=656457520538844286"
+    width="300"
+    height="200"
   />
 </a>
   </p>
