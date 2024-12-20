@@ -38,10 +38,10 @@
 
 <p>  
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/shivamkush-27?pet-id=656457520538844286"
-    width="300"
-    height="200"
-  />
+<img
+  src="https://render.gitanimals.org/farms/shivamkush-27"
+  width="600"
+  height="300"
+/>
 </a>
   </p>
